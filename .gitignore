@@ -1,2 +1,4 @@
+__pycache__
+pages/__pycache__
 .gitignore
 *.txt
